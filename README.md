@@ -1,0 +1,1 @@
+# shopee-shop-scaper-extension
